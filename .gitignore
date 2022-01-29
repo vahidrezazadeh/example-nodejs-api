@@ -1,0 +1,16 @@
+#IDE
+.idea
+.vscode
+/.idea
+/.vscode
+
+# Packages
+/node_modules
+/node_modules/*
+
+# ENV File
+.env
+
+#Storage Directory
+/Storage
+/storage
